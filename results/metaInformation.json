@@ -1,0 +1,16 @@
+{
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/bloomberg/selekt",
+        "revisionId": "f2b46c3153eb64952d53c7cd2664f1a736f04b1a",
+        "branch": "main"
+      }
+    },
+    "deviceId": "200820300000000-364d-312c-157b-d723e09130b3"
+  }
+}
